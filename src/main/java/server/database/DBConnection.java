@@ -183,6 +183,8 @@ public class DBConnection {
                 item.setItemName(resultSet.getString("itemName"));
                 item.setItemDescription(resultSet.getString("itemDescription"));
                 item.setItemPrice(resultSet.getInt("itemPrice"));
+                item.setItemType(resultSet.getInt("type"));
+
 
                 items.add(item);
             }
@@ -443,18 +445,4 @@ public class DBConnection {
         return serverToken;
     }
 
-    public int createItem(String itemName, String itemDescription, int itemPrice){
-        int rowsAffected = 0;
-        try{
-            PreparedStatement createItem = connection.prepareStatement("INSERT into Items (itemName, itemDescription, itemPrice) VALUES (?, ?, ?)");
-            createItem.setString(1, itemName);
-            createItem.setString(2, itemDescription);
-            createItem.setInt(3, itemPrice);
-            rowsAffected = createItem.executeUpdate();
-
-        } catch(SQLException e){
-            e.printStackTrace();
-        }
-        return rowsAffected;
-    }
 }

@@ -11,15 +11,17 @@ public class Item {
     private String itemName;
     private String itemDescription;
     private int itemPrice;
+    private int itemType;
 
     public Item() {
     }
 
-    public Item(int itemId, String itemName, String itemDescription, int itemPrice) {
+    public Item(int itemId, String itemName, String itemDescription, int itemPrice, int itemType) {
         this.itemId = itemId;
         this.itemName = itemName;
         this.itemDescription = itemDescription;
         this.itemPrice = itemPrice;
+        this.itemType = itemType;
     }
 
     public int getItemId() {
@@ -53,4 +55,8 @@ public class Item {
     public void setItemPrice(int itemPrice) {
         this.itemPrice = itemPrice;
     }
+
+    public int getItemType(){ return itemType;}
+
+    public void setItemType(int itemType){ this.itemType = itemType;}
 }
