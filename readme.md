@@ -33,10 +33,6 @@ K5 : Klienten skal kunne tilgå vareinformation og priser (elev)
 
 K6 : Klienten skal kunne tilgå liste over bestillinger (kantinepersonalet)
 
-## ER-diagram
-
-![ER-Diagram](Arkitektur_documents/ER_png.png)
-
 ## Klassediagram
 
 ![Klassediagram](Arkitektur_documents/Klassediagram%203.png)
