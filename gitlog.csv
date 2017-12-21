@@ -1,0 +1,332 @@
+abb9240,Martin,martingsorbo@gmail.com,Merge remote-tracking branch 'origin/master'
+4c212c3,Martin,martingsorbo@gmail.com,Changed logout
+af7e41b,martingsorbo,31654588+martingsorbo@users.noreply.github.com,Update readme.md
+72118f4,martingsorbo,31654588+martingsorbo@users.noreply.github.com,Update readme.md
+bf573f5,martingsorbo,31654588+martingsorbo@users.noreply.github.com,Update readme.md
+a5f74df,martingsorbo,31654588+martingsorbo@users.noreply.github.com,Update readme.md
+bc9f3d0,martingsorbo,31654588+martingsorbo@users.noreply.github.com,Add files via upload
+2f4ab7f,martingsorbo,31654588+martingsorbo@users.noreply.github.com,Add files via upload
+b87b1b4,martingsorbo,31654588+martingsorbo@users.noreply.github.com,Delete Kantine (YOLO) - ER Diagram .mwb
+ff6b4b0,martingsorbo,31654588+martingsorbo@users.noreply.github.com,Delete ER-Diagram.png
+2c3cc25,martingsorbo,31654588+martingsorbo@users.noreply.github.com,Delete ER-Diagram.pdf
+af6a454,martingsorbo,31654588+martingsorbo@users.noreply.github.com,Update readme.md
+8060ff1,martingsorbo,31654588+martingsorbo@users.noreply.github.com,Delete sekvensdiagram3.jpg
+ddc4c8d,martingsorbo,31654588+martingsorbo@users.noreply.github.com,Delete sekvensdiagram2.jpg
+65e8661,martingsorbo,31654588+martingsorbo@users.noreply.github.com,Delete sekvensdiagram1.jpg
+82a39bf,Martin,martingsorbo@gmail.com,Cleaned up code, and added type to Items
+04e0d78,Martin,martingsorbo@gmail.com,Fixed encryption
+bbbdacf,Tobias Walmann Rognstad,tobiaswrognstad@gmail.com,Added more dependencies and started fixing encryption.
+fbb9c63,Tobias Walmann Rognstad,tobiaswrognstad@gmail.com,Added createItem methods for staff classes
+0533e07,Tobias Walmann Rognstad,tobiaswrognstad@gmail.com,Fixed makeReady.
+adf2fba,Tobias Walmann Rognstad,tobiaswrognstad@gmail.com,Changed findOrdersById to same as getOrders, might work.
+2297fbf,Tobias Walmann Rognstad,tobiaswrognstad@gmail.com,Fixed getOrders
+dad0f25,Lasse Munk,lassemunk@mail.com,added additional comments
+12a9f3a,Lasse Munk,lassemand9@hotmail.com,Update .gitignore
+199da3f,Tobias Walmann Rognstad,31653946+tobiaswr@users.noreply.github.com,Merge pull request #52 from Distribuerede-Systemer-2017/DBcomment
+87c4b94,Tobias Walmann Rognstad,31653946+tobiaswr@users.noreply.github.com,Merge pull request #51 from Distribuerede-Systemer-2017/javadocController
+8277aad,felixskarlund,fesk16ab@student.cbs.dk,Commenting DBConnection
+aa30ed4,felixskarlund,31654192+felixskarlund@users.noreply.github.com,Update readme.md
+f34399a,muneebashraf,muas15ab@student.cbs.dk,Merged Toby&ma10 branch
+0029042,muneebashraf,muas15ab@student.cbs.dk,Merge remote-tracking branch 'origin/toby&ma10'
+44dd344,muneebashraf,muas15ab@student.cbs.dk,Merge remote-tracking branch 'origin/master'
+a509eb9,muneebashraf,muas15ab@student.cbs.dk,bug fixes i: DBConnection userEndpoint Order
+bf41eaa,Tobias Walmann Rognstad,tobiaswrognstad@gmail.com,JavaDoc for Endpoints and changed AuthEndpoint from being an actual endpoint to a normal class. AuthUser no longer returns a Response, now just returns the token as a String as that was all we needed.
+c24dc55,EmrahCartilli,31734281+EmrahCartilli@users.noreply.github.com,Add files via upload
+06ea3e6,muneebashraf,muas15ab@student.cbs.dk,Merge remote-tracking branch 'origin/Logging'
+4bf668c,Martin,martingsorbo@gmail.com,Javadoc til controllers done
+01e8435,muneebashraf,muas15ab@student.cbs.dk,Merge remote-tracking branch 'origin/master'
+c72e337,muneebashraf,muas15ab@student.cbs.dk,kommentarer i userendpoint
+18ca1fd,felixskarlund,31654192+felixskarlund@users.noreply.github.com,Update readme.md
+190034a,felixskarlund,31654192+felixskarlund@users.noreply.github.com,Add files via upload
+3742f4c,felixskarlund,31654192+felixskarlund@users.noreply.github.com,Delete Kantine (YOLO) - ER Diagram.pdf
+bf4f76c,muneebashraf,muas15ab@student.cbs.dk,testing
+31886ce,felixskarlund,31654192+felixskarlund@users.noreply.github.com,Add files via upload
+8e3aea1,felixskarlund,31654192+felixskarlund@users.noreply.github.com,Delete Kantine ER Script.sql
+ccdcd71,pkhoff,31654426+pkhoff@users.noreply.github.com,Delete Kantine App ER Diagram YOLO.pdf
+c2762f2,pkhoff,31654426+pkhoff@users.noreply.github.com,Delete Kantine App ER Diagram YOLO.mwb
+2326f0b,pkhoff,31654426+pkhoff@users.noreply.github.com,Add files via upload
+b7da2f9,martingsorbo,31654588+martingsorbo@users.noreply.github.com,Delete Kantine (YOLO) - ER Diagram.pdf
+2759870,pkhoff,31654426+pkhoff@users.noreply.github.com,Add files via upload
+6abc26a,muneebashraf,muas15ab@student.cbs.dk,Merge remote-tracking branch 'origin/toby&ma10'
+e2b8e8f,Tobias Walmann Rognstad,tobiaswrognstad@gmail.com,Added more close() for resultset methods in DBConnection.
+29d6a95,muneebashraf,muas15ab@student.cbs.dk,Merge remote-tracking branch 'origin/toby&ma10'
+e8243c8,Tobias Walmann Rognstad,tobiaswrognstad@gmail.com,Removed unused imports.
+a8da480,muneebashraf,muas15ab@student.cbs.dk,tilføjet logging til userendpoint
+ff322bc,Tobias Walmann Rognstad,tobiaswrognstad@gmail.com,More structure fixes.
+ab15e4e,Tobias Walmann Rognstad,tobiaswrognstad@gmail.com,Changed structure of entire system with DBconnection variables in every method that uses it. This ensures we dont run into "Too many connections" problem.
+01b4db5,Tobias Walmann Rognstad,tobiaswrognstad@gmail.com,Fixed SQL statement issue in DBConnection for deleteToken method.
+fe7c0c2,muneebashraf,muas15ab@student.cbs.dk,rettelse i usercontroller
+70a1091,Tobias Walmann Rognstad,tobiaswrognstad@gmail.com,Fixed SQL statement issue in DBConnection for deleteToken method.
+7fd9349,muneebashraf,muas15ab@student.cbs.dk,Removed methods encrypt and decrypt made to testing convenience
+5250776,muneebashraf,muas15ab@student.cbs.dk,All requests and objects are now encrypted and code cleanup
+5a8c51a,muneebashraf,muas15ab@student.cbs.dk,Merge remote-tracking branch 'origin/master'
+65c4ab6,Lasse Munk,lassemunk@mail.com,Reformatted all code to beautify
+9155ef6,Lasse Munk,lassemunk@mail.com,Ændrede småfejl efter merge, fully functional nu
+52cb86b,Lasse Munk,lassemand9@hotmail.com,Merge pull request #44 from Distribuerede-Systemer-2017/norwegianslasse
+0b167df,Lasse Munk,lassemand9@hotmail.com,Merge branch 'master' into norwegianslasse
+0f54ae0,Tobias Walmann Rognstad,tobiaswrognstad@gmail.com,Fixed login. Now returns Json object of User with token.
+0392b11,Lasse Munk,lassemand9@hotmail.com,Merge pull request #41 from Distribuerede-Systemer-2017/inst-veil
+854bf0c,Lasse Munk,lassemand9@hotmail.com,Merge pull request #40 from Distribuerede-Systemer-2017/MainController
+9406565,Tobias Walmann Rognstad,tobiaswrognstad@gmail.com,Added login separation based on staff or normal user. Staff gets addad substring "staff" at end of returned token.
+7e3d6c1,Lasse Munk,lassemand9@hotmail.com,Merge pull request #39 from Distribuerede-Systemer-2017/contextListener
+5aad490,Lasse Munk,lassemunk@mail.com,AuthFilter works after making the validateToken throw an exception if the condition is false, also added @Secured to the appropiate classes and methods
+7352a5d,Hannahoelseth,31654398+Hannahoelseth@users.noreply.github.com,Add files via upload
+eff2051,Lasse Munk,lassemunk@mail.com,Making auth filter work, waiting for db connection method
+800e56f,frederikellekilde,frel16ab@student.cbs.dk,Tilføjet logging i userEndpoint og staffEndpoint
+9c2970f,Lasse Munk,lassemunk@mail.com,Prøver at få authfilter til at virke
+2b56922,frederikellekilde,frel16ab@student.cbs.dk,Tilføjet logging i userEndpoint og staffEndpoint
+1c9fccc,Lasse Munk,lassemunk@mail.com,Added a few more comments
+ccd5866,frederikellekilde,frel16ab@student.cbs.dk,Tilføjet logging i userEndpoint
+d557790,frederikellekilde,frel16ab@student.cbs.dk,Merge branch 'MainController' into contextListener
+1e23130,Malte Hæstrup,Maltehestrup@icloud.com,Log beskeder tilføjet til UserEndPoint
+93dec63,Malte Hæstrup,Maltehestrup@icloud.com,Log beskeder tilføjet
+340845c,Lasse Munk,lassemunk@mail.com,Added comments for AuthEndpoint and removed the double 200 for logging in on Root login
+fa234ea,Lasse Munk,lassemunk@mail.com,Added a few comments to AuthFilter.java
+b46e0f9,Tobias Walmann Rognstad,tobiaswrognstad@gmail.com,Fixed login and logout in RootEndpoint for use of tokens.
+fc11c8f,Tobias Walmann Rognstad,tobiaswrognstad@gmail.com,Added POST in RootEndpoint
+93374c8,Tobias Walmann Rognstad,tobiaswrognstad@gmail.com,mmm
+62999d6,Tobias Walmann Rognstad,tobiaswrognstad@gmail.com,Removed DB method that wasn't used.
+63fd846,Tobias Walmann Rognstad,tobiaswrognstad@gmail.com,AuthEndpoint updated to create and delete tokens on login and logout.
+68f9651,muneebashraf,muas15ab@student.cbs.dk,Merge remote-tracking branch 'origin/MainController'
+ab9565d,frederikellekilde,frel16ab@student.cbs.dk,Ændringer i variable navne: ucontroller ændret til userController dig ændret til digester
+c07c21a,muneebashraf,muas15ab@student.cbs.dk,ALLE ENDPOINTS ER OPPE OG KØRE (4real4REAL)
+c45a431,muneebashraf,muas15ab@student.cbs.dk,Merge remote-tracking branch 'origin/master'
+599420c,Rasrp,rapo16ac@students.cbs.dk,Merge remote-tracking branch 'origin/MainController' into MainController
+f5c8d05,Lasse Munk,lassemunk@mail.com,Logging skriver nu til fil logging.log inde i resources mappen ved hjælp af catalina_base inde i .properties filen (finder den relative filsti for hver bruger). Conditional logging for UserEndpoint and UserController
+1773a7d,muneebashraf,muas15ab@student.cbs.dk,Merge remote-tracking branch 'origin/MainController'
+65960fc,muneebashraf,muas15ab@student.cbs.dk,ALLE ENDPOINTS ER OPPE OG KØRE (4real)
+f030459,Rasrp,rapo16ac@students.cbs.dk,Merge remote-tracking branch 'origin/MainController' into MainController
+bd46908,muneebashraf,muas15ab@student.cbs.dk,ALLE ENDPOINTS ER OPPE OG KØRE
+aafeba6,muneebashraf,muas15ab@student.cbs.dk,Staffendpoint er oppe og kører og virker, userEndpoint er næsten færdig FindOrdersByID WIP
+2a55cd6,felixskarlund,31654192+felixskarlund@users.noreply.github.com,Update readme.md
+b23b165,felixskarlund,31654192+felixskarlund@users.noreply.github.com,Delete Kantine app flowchart.pdf
+fc35f7e,felixskarlund,31654192+felixskarlund@users.noreply.github.com,Add files via upload
+16a7a62,felixskarlund,31654192+felixskarlund@users.noreply.github.com,Add files via upload
+4db941c,felixskarlund,31654192+felixskarlund@users.noreply.github.com,Update readme.md
+5303965,Tobias Walmann Rognstad,tobiaswrognstad@gmail.com,Change to AuthEndpoint to make failed authorization to respond with 401 status (Unauthorized).
+2481974,muneebashraf,muas15ab@student.cbs.dk,Merge branch 'encryption' into MainController
+cee9961,Tobias Walmann Rognstad,tobiaswrognstad@gmail.com,Added AuthFilter and Secured.java.
+8497d72,Lasse Munk,lassemunk@mail.com,Added new dependencies (L4J) and added a .properties file that causes logging to be written to the Logging.txt file. Also added logging conditions to MainController and UserController
+9ae9bb4,Tobias Walmann Rognstad,tobiaswrognstad@gmail.com,Minor updates in AuthEndpoint
+b59d1c8,Tobias Walmann Rognstad,tobiaswrognstad@gmail.com,Made AuthEndpoint for using Tokens.
+f849805,felixskarlund,31654192+felixskarlund@users.noreply.github.com,Update readme.md
+7f0a4fc,felixskarlund,31654192+felixskarlund@users.noreply.github.com,Update readme.md
+f94a6ee,felixskarlund,31654192+felixskarlund@users.noreply.github.com,Update readme.md
+78eb892,felixskarlund,31654192+felixskarlund@users.noreply.github.com,Update readme.md
+137c8bd,felixskarlund,31654192+felixskarlund@users.noreply.github.com,Update readme.md
+5d77803,felixskarlund,31654192+felixskarlund@users.noreply.github.com,Update readme.md
+7d4a470,pkhoff,31654426+pkhoff@users.noreply.github.com,Add files via upload
+ee95e08,felixskarlund,31654192+felixskarlund@users.noreply.github.com,Update readme.md
+86e36bc,Lasse Munk,lassemunk@mail.com,Added comments in Globals.java and logging conditions for MainController functions
+b6da5e5,felixskarlund,fesk16ab@student.cbs.dk,StaffController & StaffEndPoint
+7132644,Rasrp,rapo16ac@students.cbs.dk,Merge remote-tracking branch 'origin/MainController' into MainController
+90209d8,patricklundberg,patrickmlundberg@hotmail.com,makeReady (y)
+f1973b1,Maha16bh,Ubhnqt3m,DBConnection kommentarer tilføjet
+3272884,muneebashraf,muas15ab@student.cbs.dk,Kryptering med en on/off i config er nu oppe og kører
+41aa2ff,Lasse Munk,lassemunk@mail.com,Added static variable Log to global, making it accessible for the rest of the system without initialization
+3dcf9be,felixskarlund,31654192+felixskarlund@users.noreply.github.com,Update readme.md
+6b01de4,felixskarlund,31654192+felixskarlund@users.noreply.github.com,Add files via upload
+2eb0f25,Lasse Munk,lassemunk@mail.com,Added more comments and moved whitespaces in Globals.java
+fe5ac73,Lasse Munk,lassemunk@mail.com,Added Java Servlet dependency to pom.xml and added comments to Log.java
+a7fedc8,pkhoff,31654426+pkhoff@users.noreply.github.com,Add files via upload
+ae4d2ec,Rasrp,rapo16ac@students.cbs.dk,Comments have been added to UserController and UserEndPoint
+aaed495,Lasse Munk,lassemunk@mail.com,Added Maven dependency for SL4J
+40731e2,muneebashraf,muas15ab@student.cbs.dk,rettetlse, i response
+8effca2,Maha16bh,Ubhnqt3m,Merge remote-tracking branch 'origin/MainController' into MainController
+31edb41,muneebashraf,muas15ab@student.cbs.dk,Encryption og Decryption med kommentarer og er testet og virker.
+1688d5f,frederikellekilde,frel16ab@student.cbs.dk,Kommentarer til encryption.java
+43c41f5,Tobias Walmann Rognstad,tobiaswrognstad@gmail.com,Changed isReady method name in Order to setIsReady because isReady was both returning boolean and setting the new value.
+08e0284,Henrik Thorn,henrikthorn@it-kartellet.dk,Example of contextListener that loads config and some logging functionality
+fe8717b,Tobias Walmann Rognstad,tobiaswrognstad@gmail.com,Removed unused imports.
+247808e,felixskarlund,fesk16ab@student.cbs.dk,StaffController & StaffEndPoint
+cb01616,felixskarlund,fesk16ab@student.cbs.dk,StaffController & StaffEndPoint
+5260913,patricklundberg,patrickmlundberg@hotmail.com,hent alle ordre (y) logud mangler
+701b860,patricklundberg,patrickmlundberg@hotmail.com,hent alle ordre (y) logud mangler
+b680da4,frederikellekilde,frel16ab@student.cbs.dk,encryption class er oprettet, og første udkast er lavet
+109bda2,Tobias Walmann Rognstad,tobiaswrognstad@gmail.com,addOrder method now works.
+5fdae25,Tobias Walmann Rognstad,tobiaswrognstad@gmail.com,No change
+66feeb2,Lasse Munk,lassemunk@mail.com,Fixede små bugs efter merge, har udkommenteret enkelte metoder i MainController og UserController, da metodenavnene er forkerte - mangler fix
+8f9ccf5,Lasse Munk,lassemunk@mail.com,lavede det UserController objekt da det var mistet i merge, første commit siden merge af alle branches ud over master og logging - ingen syntaks fejl
+3161fe5,Lasse Munk,lassemand9@hotmail.com,Merge pull request #34 from Distribuerede-Systemer-2017/db
+54cf586,Lasse Munk,lassemand9@hotmail.com,Merge branch 'MainController' into db
+659c171,Lasse Munk,lassemand9@hotmail.com,Merge pull request #33 from Distribuerede-Systemer-2017/userendpoint
+49c4814,Lasse Munk,lassemand9@hotmail.com,Merge branch 'db' into userendpoint
+025a0a1,Lasse Munk,lassemand9@hotmail.com,Merge pull request #32 from Distribuerede-Systemer-2017/ucontroller
+ab22b6b,Lasse Munk,lassemunk@mail.com,Merge branch 'StaffController' into MainController
+82ccba8,Tobias Walmann Rognstad,tobiaswrognstad@gmail.com,Fixed authorizeUser to work with database, but currently does not hash passwords.
+e972242,Lasse Munk,lassemunk@mail.com,tilføjede private erklæringer til variabler i UserEndPoint.java
+0e78b8b,Lasse Munk,lassemunk@mail.com,Tilføjede private til linje 12 i MainController
+b2afae0,Lasse Munk,lassemunk@mail.com,MainController stavefejl fikset
+30a6630,Tobias Walmann Rognstad,tobiaswrognstad@gmail.com,Fixed authorizeUser method with hash
+aa68274,Tobias Walmann Rognstad,tobiaswrognstad@gmail.com,Fixed paths in UserEndpoint
+7184759,Tobias Walmann Rognstad,tobiaswrognstad@gmail.com,Fixed structure of UserController and UserEndpoint to make all userEndpoint methods call UserController methods to access DB.
+95b5bf6,Martin,martingsorbo@gmail.com,Connecter usercontrolleren og databasen korrekt
+5cfb115,Tobias Walmann Rognstad,tobiaswrognstad@gmail.com,Added isReady change method and corrected mainController for login method
+ca2a72d,Lasse Munk,lassemunk@mail.com,tilføjede lidt til UserController, afventer DB merge
+db170da,Tobias Walmann Rognstad,tobiaswrognstad@gmail.com,Fixed authorizeUser having double parameters
+e7b0c3b,Lasse Munk,lassemunk@mail.com,Merge branch 'db' of https://github.com/Distribuerede-Systemer-2017/YOLO into db
+dd6c027,muneebashraf,muas15ab@student.cbs.dk,Merge remote-tracking branch 'origin/StaffController'
+0b2c43b,Lasse Munk,lassemunk@mail.com,rettede kommentarer til i DB og config klasserne
+bd8e967,Tobias Walmann Rognstad,tobiaswrognstad@gmail.com,Fixed double path in addOrder method
+eddef82,muneebashraf,muas15ab@student.cbs.dk,Merge remote-tracking branch 'origin/db' into db
+b4e5c27,muneebashraf,muas15ab@student.cbs.dk,Config filen virker nu Der er hul igennem på endpoint /user men af en eller anden årsag er det kun getorders der bliver kørt
+909e43a,Lasse Munk,lassemunk@mail.com,Tilføjet et par kommentarer til ulæselig kode
+c548756,Lasse Munk,lassemunk@mail.com,kommentarer til Thorns config omskrivning
+2854818,Henrik Thorn,henrikthorn@it-kartellet.dk,Fixed config file inclusion
+a4c71cd,Tobias Walmann Rognstad,tobiaswrognstad@gmail.com,Added DB method in getOrders method
+98ccfe5,muneebashraf,muas15ab@student.cbs.dk,DB TEST IN PROGESS
+4503e06,muneebashraf,muas15ab@student.cbs.dk,Merge remote-tracking branch 'origin/sikkerhed' into db
+d8b7e5e,muneebashraf,muas15ab@student.cbs.dk,Merge remote-tracking branch 'origin/userendpoint' into db
+04ce1ba,muneebashraf,muas15ab@student.cbs.dk,Get orders WIP
+ec3599e,Tobias Walmann Rognstad,tobiaswrognstad@gmail.com,Removed DBConnection contents because it isnt the right branch
+c2750c8,Tobias Walmann Rognstad,tobiaswrognstad@gmail.com,Added hashed password to authorizeUser & fixed methods to only use Json.
+55abe6c,frederikellekilde,frel16ab@student.cbs.dk,Config.java ændret så json objekterne bliver gemt i java variabler
+49ae85d,Tobias Walmann Rognstad,tobiaswrognstad@gmail.com,authorizeUser & addOrder method added.
+368050f,muneebashraf,muas15ab@student.cbs.dk,Både findordersbyid og getitems er pushed
+fda6f63,Maha16bh,Ubhnqt3m,getItems tilføjet til DBConnection
+16bd37d,Maha16bh,Ubhnqt3m,Merge branch 'db' of /Users/haestrup/Desktop/YOLO with conflicts.
+a760349,Tobias Walmann Rognstad,tobiaswrognstad@gmail.com,authorizeUser method added.
+1a04956,Tobias Walmann Rognstad,tobiaswrognstad@gmail.com,addOrder method added.
+7e1e72e,frederikellekilde,frel16ab@student.cbs.dk,Fejlrettelse i config.json
+d9718e5,muneebashraf,muas15ab@student.cbs.dk,Rettelse i DTO Item
+36224e9,muneebashraf,muas15ab@student.cbs.dk,FindOrderById done
+ce11fd7,muneebashraf,muas15ab@student.cbs.dk,Merge branch 'db' of /Users/muneebashraf/Desktop/YOLO with conflicts.
+b7033e2,frederikellekilde,frel16ab@student.cbs.dk,Fejlrettelse i config filen
+a6af93b,frederikellekilde,frel16ab@student.cbs.dk,Config filer er oprettet
+8ae06d1,Maha16bh,Ubhnqt3m,getItems tilføjet til DBConnection
+1e0f3a5,Tobias Walmann Rognstad,tobiaswrognstad@gmail.com,Reverted changes.
+ae473ed,Tobias Walmann Rognstad,tobiaswrognstad@gmail.com,Mid addOrder funktion
+608cf6b,Maha16bh,Ubhnqt3m,getRecords tilføjet,
+cb5b0c7,Maha16bh,Ubhnqt3m,Merge remote-tracking branch 'origin/userendpoint' into userendpoint
+79c55b8,felixskarlund,fesk16ab@student.cbs.dk,StaffController Mindre ændringer
+8c0555a,Tobias Walmann Rognstad,tobiaswrognstad@gmail.com,Lavet bedre status tjek for createUser metode. Mangler fortsatt hashet password.
+3a84bb4,Tobias Walmann Rognstad,tobiaswrognstad@gmail.com,Lagt til addUser metode
+b3dbd4f,felixskarlund,fesk16ab@student.cbs.dk,StaffController Mindre ændringer
+7653f8a,Lasse Munk,lassemunk@mail.com,Tilføjede mere funktionalitet til MainController og relevant SQL statement til DBConnection klassen
+373e3d4,Lasse Munk,lassemunk@mail.com,Added SQL statement.
+571fe99,Maha16bh,Ubhnqt3m,DBConnection methods tilføjet
+436ea83,Maha16bh,Ubhnqt3m,Merge remote-tracking branch 'origin/userendpoint' into userendpoint
+9bb2a62,Lasse Munk,lassemand9@hotmail.com,Merge pull request #20 from Distribuerede-Systemer-2017/MainController
+e05e69c,Lasse Munk,lassemunk@mail.com,Tilføjede mere funktionalitet til MainController klassen
+fb154f2,frederikellekilde,frel16ab@student.cbs.dk,Salt er ændret fra "xyz" til en SHA-256 hash
+93bf4b2,frederikellekilde,frel16ab@student.cbs.dk,MD5 algoritmen er ændret til den mere sikre SHA-256 algoritme
+3c73c85,Tobias Walmann Rognstad,tobiaswrognstad@gmail.com,Rettet authorizeUser og la til status alternativer for alle metoder (ikke authorizeUser).
+1a80c74,Maha16bh,Ubhnqt3m,authorizeUser rettet (Fjernet ID og Email fra Path)
+5be0df8,Maha16bh,Ubhnqt3m,AuthorizeUser metode tilføjet til UserEndPoint
+3567eca,Maha16bh,Ubhnqt3m,AuthorizeUser metode tilføjet til UserEndPoint
+ba0db51,Maha16bh,Ubhnqt3m,Merge remote-tracking branch 'origin/master' into userendpoint
+800681f,Lasse Munk,lassemunk@mail.com,Erklærede alle endpoints og controllers
+59d7ab3,felixskarlund,fesk16ab@student.cbs.dk,StaffController Lavet metoder for StaffController
+eb67342,Tobias Walmann Rognstad,tobiaswrognstad@gmail.com,Forkortet kode og fikset så alt oppdateres per kald.
+e2ba2ce,Maha16bh,Ubhnqt3m,Merge remote-tracking branch 'origin/master' into MainController
+a4ca972,felixskarlund,fesk16ab@student.cbs.dk,Merge remote-tracking branch 'origin/master' into StaffController
+a5f00eb,Tobias Walmann Rognstad,tobiaswrognstad@gmail.com,Rettelse af struktur.
+586186c,Tobias Walmann Rognstad,tobiaswrognstad@gmail.com,Lavet alt for UserEndpoint. Noen av metodene brukes i MainController og ikke UserController. Derfor UserController ikke bruker alle.
+340cde8,Tobias Walmann Rognstad,tobiaswrognstad@gmail.com,Lavet alt for UserEndpoint. Noen av metodene brukes i MainController og ikke UserController. Derfor UserController ikke bruker alle.
+898a7df,muneebashraf,muas15ab@student.cbs.dk,Sikkerheds branch merged ind til master så dem der laver login kan bruge ændringer med hashing
+0ccf97c,frederikellekilde,frel16ab@student.cbs.dk,Merge remote-tracking branch 'origin/master' into sikkerhed
+deeb57d,muneebashraf,muas15ab@student.cbs.dk,Merge remote-tracking branch 'origin/master'
+ca1cdbb,muneebashraf,muas15ab@student.cbs.dk,Merge remote-tracking branch 'origin/sikkerhed'
+74cfb01,Lasse Munk,lassemand9@hotmail.com,Merge pull request #19 from Distribuerede-Systemer-2017/dbconnection
+56dd5c0,Maha16bh,Ubhnqt3m,Login metode (pseudo kode)
+1b56ce1,Lasse Munk,lassemunk@mail.com,Oprettet connection, mangler SQL statements
+910048f,frederikellekilde,frel16ab@student.cbs.dk,Digester klasse til hashing, samt ændringer i User-klassen, så passwordet kan hashes
+13582a5,Tobias Walmann Rognstad,tobiaswrognstad@gmail.com,Lavet alle metoder for UserController. Rettet og fjernet Endpoint endringer
+73eff9f,Tobias Walmann Rognstad,tobiaswrognstad@gmail.com,Lavet alle metoder for UserController.
+80f977f,felixskarlund,fesk16ab@student.cbs.dk,StaffController Pusher branch
+1d164b7,Maha16bh,Ubhnqt3m,test
+6f9bb03,muneebashraf,muas15ab@student.cbs.dk,Merge branch 'Model'
+06fce5b,felixskarlund,fesk16ab@student.cbs.dk,Item-klasse Fejlrettinger
+f8b4565,felixskarlund,fesk16ab@student.cbs.dk,Item-klasse Små ændringer
+b1d6214,muneebashraf,Munne_122@hotmail.com,Model branch merged ind til master
+926c0a9,muneebashraf,Munne_122@hotmail.com,Merge remote-tracking branch 'origin/Model'
+2ace1de,muneebashraf,Munne_122@hotmail.com,Merge remote-tracking branch 'origin/master'
+b21b32b,muneebashraf,Munne_122@hotmail.com,Merge remote-tracking branch 'origin/Model'
+7102f79,pkhoff,peho16ac@student.cbs.dk,Controller getters and setters
+8158101,HannaHoelseth,haho16ac@student.cbs.dk,Order - controller og getter og setters, og endring i item
+545e672,felixskarlund,fesk16ab@student.cbs.dk,Item-klasse Lavet konstruktør, getters & setters
+f2b44c9,Lasse Munk,lassemunk@mail.com,Tilfoejede database klasse til projektet
+9710b19,Lasse Munk,lassemunk@mail.com,tilfoejede javadoc til klassen og metoden deri
+a264636,Lasse Munk,lassemunk@mail.com,aendrede paa .gitignore (tilfoejede filer) og gjort klar til logik i StaffController
+dda257f,Lasse Munk,lassemunk@mail.com,ny rollefordeling i maincontroller
+68b660b,Lasse Munk,lassemunk@mail.com,Tilfoejede Lasse til to controller klassers
+aec7aa1,felixskarlund,fesk16ab@student.cbs.dk,Model-klasse Items
+8d3566f,felixskarlund,31654192+felixskarlund@users.noreply.github.com,Add files via upload
+7c492d9,felixskarlund,31654192+felixskarlund@users.noreply.github.com,Create Inddeling af roller til Hackathon.docx
+6b0c7a8,felixskarlund,31654192+felixskarlund@users.noreply.github.com,Delete Inddeling af roller til Hackathon.docx
+85c45fe,felixskarlund,31654192+felixskarlund@users.noreply.github.com,Add files via upload
+8c38ffc,felixskarlund,31654192+felixskarlund@users.noreply.github.com,Update readme.md
+9a162ff,felixskarlund,31654192+felixskarlund@users.noreply.github.com,Update readme.md
+8d35fd1,felixskarlund,31654192+felixskarlund@users.noreply.github.com,Update readme.md
+c6d876d,felixskarlund,31654192+felixskarlund@users.noreply.github.com,Update readme.md
+4e35028,felixskarlund,31654192+felixskarlund@users.noreply.github.com,Update readme.md
+c15a6b0,Rasrp,rrosenmeyer@hotmail.com,Update readme.md
+1e550bb,Lasse Munk,lassemunk@mail.com,Merge branch 'master' of https://github.com/Distribuerede-Systemer-2017/YOLO
+e0506c7,Lasse Munk,lassemunk@mail.com,Gjort filer klar til Hackathon (oprettelse af tomme klasser)
+b30f9a0,felixskarlund,31654192+felixskarlund@users.noreply.github.com,Update Kantine ER Script.sql
+24d2a2d,Lasse Munk,lassemunk@mail.com,file structure change
+f5dc94d,Lasse Munk,lassemunk@mail.com,Merge branch 'master' of https://github.com/Distribuerede-Systemer-2017/YOLO
+47da79d,Lasse Munk,lassemunk@mail.com,code cleanup before hackathon
+5c83e98,frederikellekilde,31654431+frederikellekilde@users.noreply.github.com,Add files via upload
+c6d6e6d,Lasse Munk,lassemunk@mail.com,endpoint
+d67e40d,Lasse Munk,lassemunk@mail.com,dirty fix
+974c7dd,felixskarlund,31654192+felixskarlund@users.noreply.github.com,Update readme.md
+cb77429,felixskarlund,31654192+felixskarlund@users.noreply.github.com,Add files via upload
+da3b30c,felixskarlund,31654192+felixskarlund@users.noreply.github.com,Add files via upload
+4d5f51d,felixskarlund,31654192+felixskarlund@users.noreply.github.com,Add files via upload
+eb4d654,Lasse Munk,lassemand9@hotmail.com,Update readme.md
+6bacb5a,MuneebAshraf,Munne_122@hotmail.com,Update readme.md
+102958f,MuneebAshraf,Munne_122@hotmail.com,Absolute final krav spec
+b22be47,frederikellekilde,31654431+frederikellekilde@users.noreply.github.com,Add files via upload
+c10f899,frederikellekilde,31654431+frederikellekilde@users.noreply.github.com,Add files via upload
+a839122,frederikellekilde,31654431+frederikellekilde@users.noreply.github.com,Delete test
+7dd7863,frederikellekilde,31654431+frederikellekilde@users.noreply.github.com,Delete Kantine app flowchart.pdf
+00aea79,frederikellekilde,31654431+frederikellekilde@users.noreply.github.com,Add files via upload
+b640aa6,frederikellekilde,31654431+frederikellekilde@users.noreply.github.com,Create test
+24c605b,MuneebAshraf,Munne_122@hotmail.com,Final final final final final final
+884719a,MuneebAshraf,Munne_122@hotmail.com,Final final final kravspec
+29ef89c,MuneebAshraf,Munne_122@hotmail.com,Update readme.md
+a9f4abb,MuneebAshraf,Munne_122@hotmail.com,Final krav spec
+6c834d6,MuneebAshraf,Munne_122@hotmail.com,Update readme.md
+a90df44,Henrik Thorn,henrikthorn@gmail.com,Update readme.md
+409670b,Tobias Walmann Rognstad,31653946+tobiaswr@users.noreply.github.com,Add files via upload
+e85a50b,Hanna Sannæss Hoelseth,HannaHoelseth@hannas-air.hhk.dk,Merge branch 'master' of https://github.com/Distribuerede-Systemer-2017/YOLO
+5756a1f,Hanna Sannæss Hoelseth,HannaHoelseth@hannas-air.hhk.dk,slettet
+d3ae827,frederikellekilde,31654431+frederikellekilde@users.noreply.github.com,Add files via upload
+25f1f7f,Hanna Sannæss Hoelseth,HannaHoelseth@hannas-air.hhk.dk,test
+452a0b7,Tobias Walmann Rognstad,31653946+tobiaswr@users.noreply.github.com,Add files via upload
+baf4330,Jesper Bruun Hansen,jesperbbhansen@gmail.com,Rename Kravspecifikation.md to readme.md
+40b98af,frederikellekilde,31654431+frederikellekilde@users.noreply.github.com,Rename README.md to Kravspecifikation.md
+4a2bb63,frederikellekilde,31654431+frederikellekilde@users.noreply.github.com,Add files via upload
+650dd7b,frederikellekilde,31654431+frederikellekilde@users.noreply.github.com,Update README.md
+2ffeb1e,frederikellekilde,31654431+frederikellekilde@users.noreply.github.com,Update README.md
+72a1aa1,maha16bh,31654727+maha16bh@users.noreply.github.com,Tilføjede kravspecs
+be2e181,maha16bh,31654727+maha16bh@users.noreply.github.com,Initial commit
+f90faba,Jesper Bruun Hansen,jesperbbhansen@gmail.com,Update readme.md
+5f4a455,Jesper Bruun Hansen,jesperbbhansen@gmail.com,Update readme.md
+fbb66ac,Jesper Bruun Hansen,jesperbbhansen@gmail.com,Update readme.md
+c19d585,Jesper Bruun Hansen,jesperbbhansen@gmail.com,Merge branch 'master' of https://github.com/Distribuerede-Systemer-2017/restfull-dis
+c926699,Jesper Bruun Hansen,jesperbbhansen@gmail.com,update gitignore
+7e7d056,Jesper Bruun Hansen,jesperbbhansen@gmail.com,Update readme.md
+9132811,Jesper Bruun Hansen,jesperbbhansen@gmail.com,Merge branch 'master' of https://github.com/Distribuerede-Systemer-2017/restfull-dis
+b36f93f,Jesper Bruun Hansen,jesperbbhansen@gmail.com,heroku deployment
+ef49ea0,Laust,isondkwamm@gmail.com,Update readme.md
+6e14129,Jesper Bruun Hansen,jesperbbhansen@gmail.com,Update readme.md
+b831277,Jesper Bruun Hansen,jesperbbhansen@gmail.com,change jdk
+a872339,Jesper Bruun Hansen,jesperbbhansen@gmail.com,Update readme.md
+a2bb0cd,Jesper Bruun Hansen,jesperbbhansen@gmail.com,merge
+bd49367,Jesper Bruun Hansen,jesperbbhansen@gmail.com,Typos
+c1d74fa,Jesper Bruun Hansen,jesperbbhansen@gmail.com,Remove
+2faed0a,Jesper Bruun Hansen,jesperbbhansen@gmail.com,Update readme.md
+796a72d,Jesper Bruun Hansen,jesperbbhansen@gmail.com,Merge branch 'master' of https://github.com/Distribuerede-Systemer-2017/restfull-dis
+a48bdce,Jesper Bruun Hansen,jesperbbhansen@gmail.com,Create fake database
+e461e78,Jesper Bruun Hansen,jesperbbhansen@gmail.com,Update readme.md
+85557b8,Jesper Bruun Hansen,jesperbbhansen@gmail.com,Update readme.md
+8dbdaf1,Jesper Bruun Hansen,jesperbbhansen@gmail.com,Update readme.md
+89228b2,Jesper Bruun Hansen,jesperbbhansen@gmail.com,add descriptions
+f3fe4ec,Jesper Bruun Hansen,jesperbbhansen@gmail.com,Rename
+1dab4fd,Jesper Bruun Hansen,jesperbbhansen@gmail.com,rename
+dc58389,Jesper Bruun Hansen,jesperbbhansen@gmail.com,remove ignore
+9248a69,Jesper Bruun Hansen,jesperbbhansen@gmail.com,remove consume statements
+7484009,Jesper Bruun Hansen,jesperbbhansen@gmail.com,add files
+2b1e679,Jesper Bruun Hansen,jesperbbhansen@gmail.com,add ignore
