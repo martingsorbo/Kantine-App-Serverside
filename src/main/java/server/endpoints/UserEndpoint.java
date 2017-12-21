@@ -160,7 +160,7 @@ public class UserEndpoint {
         return Response
                 .status(status)
                 .type("application/json")
-                //encrypt response to clien before sending
+                //encrypt response to client before sending
                 .entity(encryption.encryptXOR(itemsAsJson))
                 .build();
     }
